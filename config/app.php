@@ -1,6 +1,10 @@
 <?php
 
 return [
+  $provides => [
+Skovmand\Mailchimp\MailchimpServiceProvider::class,
+]
+
 
     /*
     |--------------------------------------------------------------------------
