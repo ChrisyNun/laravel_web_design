@@ -83,7 +83,12 @@
                 </div>
 
                 <div class="links">
+<<<<<<< HEAD
                     <a href="{{ url('/mailchimp') }}">MailChimp</a>
+=======
+            
+                    <a href="https://laravel.com/docs">อิอิ</a>
+>>>>>>> 59edb8655519d7e9bb8f8de568fc7b0d9e83468c
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
