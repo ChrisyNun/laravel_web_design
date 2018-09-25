@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    {{ URL::route('manageMailChimp') }}
+            
                     <a href="https://laravel.com/docs">อิอิ</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
