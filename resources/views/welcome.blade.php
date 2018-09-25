@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{ url('/mailchimp') }}">MailChimp</a>
+                    <a href="{{ url('/newsletter') }}">MailChimp</a>
                     <a href="https://laravel.com/docs">doc</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
