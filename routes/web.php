@@ -13,7 +13,9 @@
 
 Route::get('/', function () {
     return view('welcome');
+
+
+    Route::get('newsletter','NewsletterController@create');
+    Route::post('newsletter','NewsletterController@store');
 });
 
-Route::get('newsletter','NewsletterController@create');
-Route::post('newsletter','NewsletterController@store');
